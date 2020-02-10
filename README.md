@@ -1,6 +1,9 @@
 # candiday (in the life)
 React Web App that aims to make learning about voting fun and accessible.
 
+### Creators
+Trina Chatterjee, Erika Tan, Nikita Sharma
+
 ## Problem Statement
 - “Residents 65 years and older are a median of seven times more likely to vote than those ages 18 to 34” (NPR)
 - Reasons contributing to lower voter turnout:
@@ -19,10 +22,16 @@ React Web App that aims to make learning about voting fun and accessible.
 - Online photo editors
   - vectr.com
   - pixlr.com
-  
+ 
  ## Graphics
- All the graphics* for our project were hand made using pixlr.com and vectr.com image and vector online editors
+ All the graphics[^*] for our project were hand made using pixlr.com and vectr.com image and vector online editors
 
+## Further Improvements
+- More scenarios, candidates, and a wider range of election issues covered in the game
+- Have users input their own information (age, race, gender, income), so we can find specific policies/laws that might affect them
+- Use NLP and crawl websites/news articles/etc. instead of researching the candidates’ policies ourselves
 
-Technologies Used: React frontend, HTML5 Canvas animations, Python Flask backend
-Team Members: Nikita Sharma, Trina Chatterjee, Erika Tan
+## Demo Video
+Watch our web app in action at [this link](https://www.youtube.com/watch?v=RQNRS3aqXvg).
+
+[^*]: Except for splash page image (undraw.co)
