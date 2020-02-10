@@ -1,4 +1,5 @@
-# candiday (in the life)
+![candiday (in the life)](https://raw.githubusercontent.com/nsharma1231/wicshacks2020/master/logo.png)
+
 React Web App that aims to make learning about voting fun and accessible.
 
 ### Creators
