@@ -35,4 +35,4 @@ Trina Chatterjee, Erika Tan, Nikita Sharma
 Watch our web app in action at [this link](https://www.youtube.com/watch?v=RQNRS3aqXvg).
 
 
-*Except for splash page image (undraw.co)
+_*Except for splash page image (undraw.co)_
