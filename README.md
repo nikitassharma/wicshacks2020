@@ -24,7 +24,7 @@ Trina Chatterjee, Erika Tan, Nikita Sharma
   - pixlr.com
  
  ## Graphics
- All the graphics[^*] for our project were hand made using pixlr.com and vectr.com image and vector online editors
+ All the graphics* for our project were hand made using pixlr.com and vectr.com image and vector online editors
 
 ## Further Improvements
 - More scenarios, candidates, and a wider range of election issues covered in the game
@@ -34,4 +34,5 @@ Trina Chatterjee, Erika Tan, Nikita Sharma
 ## Demo Video
 Watch our web app in action at [this link](https://www.youtube.com/watch?v=RQNRS3aqXvg).
 
-[^*]: Except for splash page image (undraw.co)
+
+_*Except for splash page image (undraw.co)_
